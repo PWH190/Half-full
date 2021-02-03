@@ -1,5 +1,5 @@
 # Half-full
 
-#Paddy
+# Paddy
 
-##Wildfires and Contamination
+## Wildfires and Contamination
